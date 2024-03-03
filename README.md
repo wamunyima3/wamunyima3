@@ -12,10 +12,10 @@
 - 📄 Know about my experiences: [Resume](https://drive.google.com/uc?export=download&id=1KadXFu9hT1djhyzdotRQKB6AITJGz1d5).
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/linkedin.com/in/try-and-error-world-32bbb6211)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/linkedin.com/in/try-and-error-world-32bbb6211](https://www.linkedin.com/in/try-and-error-world-32bbb6211/))
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/16592046/try-and-error-world)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://web.facebook.com/profile.php?id=100076511817470)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/uctzblti6lugbjwmwifxq8pw)
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)]([https://www.youtube.com/channel/uctzblti6lugbjwmwifxq8pw](https://www.youtube.com/channel/UCTZBLTi6lUGBjwmWiFXq8Pw/"))
 
 ### Languages and Tools
 <!-- Replace the following icons with your actual tools -->
