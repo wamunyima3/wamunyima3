@@ -36,7 +36,6 @@
 <!-- Add more tools as needed -->
 
 ### Support Me
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/Wamunyima)
 
 ### GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wamunyima3&layout=compact&theme=dark)
