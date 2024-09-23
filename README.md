@@ -10,8 +10,8 @@
 - 💬 Ask me about **Flutter, C++, Java, PHP, HTML, CSS, SQL, JavaScript, React, Python, Data Structures and Algorithms, Git, Android**.
 - 📫 How to reach me: [wamunyimamukelabai3@gmail.com](mailto:wamunyimamukelabai3@gmail.com).
 - 📄 Know about my experiences: [Resume](https://drive.google.com/uc?export=download&id=1KadXFu9hT1djhyzdotRQKB6AITJGz1d5).
+- 📄 If you want to explore: [Portfolio](https://wamunyimamukelabai.vercel.app/).
 
-### Connect with Me
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/try-and-error-world-32bbb6211/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/16592046/try-and-error-world)
