@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **React Native**.
 - 💬 Ask me about **Flutter, C++, Java, PHP, HTML, CSS, SQL, JavaScript, React, Python, Data Structures and Algorithms, Git, Android**.
 - 📫 How to reach me: [wamunyimamukelabai3@gmail.com](mailto:wamunyimamukelabai3@gmail.com).
-- 📄 Know about my experiences: [Resume](https://drive.google.com/uc?export=download&id=1KadXFu9hT1djhyzdotRQKB6AITJGz1d5).
+- 📄 Know about my experiences: [Resume](https://drive.google.com/uc?export=download&id=1N3sKI9NZz3LwgL6JTesRFdmdr2AtBOMI).
 - 📄 If you want to explore: [Portfolio](https://wamunyimamukelabai.vercel.app/).
 
 ### Connect with Me
