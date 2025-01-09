@@ -1,42 +1,91 @@
-# Hi there 👋, I'm Wamunyima Mukelabai
+# Wamunyima Mukelabai
 
-## A Software Engineer | Passionate about Desktop, Web, and Mobile Development
+## Software Engineer | Crafting Digital Experiences: From Web to Mobile, One Line of Code at a Time
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=vercel)](https://wamunyimamukelabai.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukelabai-wamunyima-32bbb6211/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16592046/try-and-error-world)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCTZBLTi6lUGBjwmWiFXq8Pw/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=wamunyima3&label=Profile%20views&color=0e75b6&style=flat)
 
-### About Me
-- 🔭 I’m currently working on [PrepMaster](https://github.com/wamunyima3/PrepMaster.git), a project to help students prepare for their exams.
-- 🌱 I’m currently learning **React Native**.
-- 💬 Ask me about **Flutter, C++, Java, PHP, HTML, CSS, SQL, JavaScript, React, Python, Data Structures and Algorithms, Git, Android**.
-- 📫 How to reach me: [wamunyimamukelabai3@gmail.com](mailto:wamunyimamukelabai3@gmail.com).
-- 📄 Know about my experiences: [Resume](https://drive.google.com/uc?export=download&id=1N3sKI9NZz3LwgL6JTesRFdmdr2AtBOMI).
-- 📄 If you want to explore: [Portfolio](https://wamunyimamukelabai.vercel.app/).
+## 🚀 About Me
 
-### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mukelabai-wamunyima-32bbb6211/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-orange?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/16592046/try-and-error-world)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://web.facebook.com/profile.php?id=100076511817470)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCTZBLTi6lUGBjwmWiFXq8Pw/)
+Hey there! I'm Wamunyima, a Software Engineer with a passion for creating innovative solutions across web, mobile, and desktop platforms. Currently, I'm crafting digital experiences at Good Nature Agro (GNA) as a Junior Software Developer.
 
+- 🔭 Working on mobile apps with Kotlin and web dashboards with Laravel Nova and Next.js
+- 🌱 Always learning: Currently diving deeper into Kotlin and React Native
+- 💬 Ask me about Flutter, React, JavaScript, Kotlin, PHP, or anything tech!
+- 📫 Reach me at: [wamunyimamukelabai3@gmail.com](mailto:wamunyimamukelabai3@gmail.com)
+- ⚡ Fun fact: I once collected map data for the Zambian census!
 
-### Languages and Tools
-<!-- Replace the following icons with your actual tools -->
-![Android](https://img.shields.io/badge/-Android-green?style=for-the-badge&logo=android)
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Python](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-red?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blueviolet?style=for-the-badge&logo=tailwind-css)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-yellow?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
-![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
-<!-- Add more tools as needed -->
+## 🛠️ My Toolkit
 
-### Support Me
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Mantine](https://img.shields.io/badge/-Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wamunyima3&layout=compact&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wamunyima3&show_icons=true&theme=dark)
+## 🌟 Featured Projects
+
+### Purity
+A platform for managing student project proposals.
+- **Tech Stack:** React, Mantine, Supabase
+- [View Project](https://purity-pm.vercel.app/)
+
+### Chainama VOP
+An SDA church app for Bible study and faith development.
+- **Tech Stack:** Flutter, Supabase
+- [View on Play Store](https://play.google.com/store/apps/details?id=com.bytebuilders.sda_quo_client&pcampaignid=web_share)
+
+### Attendance APK
+A mobile application enabling students to mark their attendance by scanning QR codes.
+- **Tech Stack:** Flutter, Supabase
+- [View on Play Store](https://play.google.com/store/apps/details?id=com.asa.attendance_register&hl=en_US)
+
+### Attendance Admin
+An admin panel for lecturers to manage student attendance, supporting manual marking and QR code scanning.
+- **Tech Stack:** React, Vite, Tailwind CSS, Supabase
+- [View Project](https://attendance-register-vite-react.vercel.app/)
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wamunyima3&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wamunyima3&show_icons=true&theme=radical)
+
+## 💼 A Day in My Life
+
+| Time | Activity |
+|------|----------|
+| 06:20 AM | 🌅 Wake up and morning routine |
+| 08:00 AM | 💼 Start work: Code review and team sync |
+| 09:30 AM | 👨‍💻 Dive into Kotlin mobile app development |
+| 12:00 PM | 🥗 Lunch break and quick tech article read |
+| 01:00 PM | 🖥️ Work on Laravel Nova and Next.js dashboards |
+| 03:30 PM | 🤝 Collaborate with cross-functional teams |
+| 05:00 PM | ♟️ Chess practice and novel reading |
+| 07:00 PM | 📚 Personal project work and learning |
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on interesting projects or discuss the latest in tech. Whether you're a fellow developer, a potential employer, or just someone passionate about technology, feel free to reach out!
+
+[![Check out my Portfolio](https://img.shields.io/badge/-Check%20out%20my%20Portfolio-00C7B7?style=for-the-badge)](https://wamunyimamukelabai.vercel.app/)
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile! Let's build something amazing together.</i>
+</p>
