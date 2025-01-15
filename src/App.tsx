@@ -73,25 +73,41 @@ function App() {
 
         <section className="mb-6">
           <h2 className="text-xl font-semibold mb-2">Skills</h2>
-          <div className="flex flex-wrap gap-2">
-            <Badge>JavaScript</Badge>
-            <Badge>React.js</Badge>
-            <Badge>Next.js</Badge>
-            <Badge>Flutter</Badge>
-            <Badge>Kotlin</Badge>
-            <Badge>Laravel Nova</Badge>
-            <Badge>PHP</Badge>
-            <Badge>SQL</Badge>
-            <Badge>Firebase</Badge>
-            <Badge>Supabase</Badge>
-            <Badge>HTML</Badge>
-            <Badge>CSS</Badge>
-            <Badge>Tailwind CSS</Badge>
-            <Badge>Mantine</Badge>
-            <Badge>Java</Badge>
-            <Badge>C++</Badge>
-            <Badge>Git</Badge>
-            <Badge>Linux</Badge>
+          <div className="space-y-4">
+            <div>
+              <h3 className="text-lg font-medium mb-2">Programming Languages</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge>JavaScript</Badge>
+                <Badge>TypeScript</Badge>
+                <Badge>PHP</Badge>
+                <Badge>Java</Badge>
+                <Badge>Kotlin</Badge>
+                <Badge>C++</Badge>
+                <Badge>SQL</Badge>
+              </div>
+            </div>
+            <div>
+              <h3 className="text-lg font-medium mb-2">Frameworks & Libraries</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge>React.js</Badge>
+                <Badge>Next.js</Badge>
+                <Badge>Flutter</Badge>
+                <Badge>Laravel Nova</Badge>
+                <Badge>Tailwind CSS</Badge>
+                <Badge>Mantine</Badge>
+              </div>
+            </div>
+            <div>
+              <h3 className="text-lg font-medium mb-2">Tools & Technologies</h3>
+              <div className="flex flex-wrap gap-2">
+                <Badge>Git</Badge>
+                <Badge>Linux</Badge>
+                <Badge>Firebase</Badge>
+                <Badge>Supabase</Badge>
+                <Badge>HTML</Badge>
+                <Badge>CSS</Badge>
+              </div>
+            </div>
           </div>
         </section>
 
