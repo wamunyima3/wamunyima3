@@ -49,7 +49,7 @@ function App() {
           <h2 className="text-xl font-semibold mb-2">Work Experience</h2>
           <div className="mb-4">
             <h3 className="text-lg font-medium">Junior Software Developer</h3>
-            <p className="text-muted-foreground">Good Nature Agro (GNA) | September 13, 2024 - Present</p>
+            <p className="text-muted-foreground">Good Nature Agro (GNA) | November 13, 2024 - Present</p>
             <ul className="list-disc list-inside mt-2">
               <li>Developing mobile applications using Kotlin</li>
               <li>Creating and maintaining dashboards using Laravel Nova and Next.js</li>
@@ -59,7 +59,7 @@ function App() {
           </div>
           <div className="mb-4">
             <h3 className="text-lg font-medium">Software Developer</h3>
-            <p className="text-muted-foreground">Byte Builders | January 2023 - September 13, 2024</p>
+            <p className="text-muted-foreground">Byte Builders | January 2023 - November 13, 2024</p>
             <ul className="list-disc list-inside mt-2">
               <li>Developed and maintained attendance software for educational institutions</li>
               <li>Created and implemented church management software to enhance community engagement</li>
