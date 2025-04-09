@@ -215,9 +215,9 @@ function App() {
               <p>Phone: 0976604095</p>
             </li>
             <li className="mb-2">
-              <p className="font-medium">Dr. Fredah Banda</p>
-              <p className="text-muted-foreground">Product Manager, GNA</p>
-              <p>Phone: 0767335336</p>
+              <p className="font-medium">GNA Rep</p>
+              <p className="text-muted-foreground">Role</p>
+              <p>Phone: 0777777798</p>
             </li>
             <li>
               <p className="font-medium">Namacau Maikeli</p>
