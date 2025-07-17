@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Separator } from "@/components/ui/separator";
@@ -373,7 +373,11 @@ function App() {
                     "C++",
                     "SQL",
                   ].map((skill) => (
-                    <Badge key={skill} className="cv-skill-badge text-xs">
+                    <Badge
+                      key={skill}
+                      className="cv-skill-badge text-xs"
+                      variant="outline"
+                    >
                       {skill}
                     </Badge>
                   ))}
@@ -392,7 +396,11 @@ function App() {
                     "Tailwind CSS",
                     "Mantine",
                   ].map((skill) => (
-                    <Badge key={skill} className="cv-skill-badge text-xs">
+                    <Badge
+                      key={skill}
+                      className="cv-skill-badge text-xs"
+                      variant="outline"
+                    >
                       {skill}
                     </Badge>
                   ))}
@@ -405,7 +413,11 @@ function App() {
                 <div className="cv-skills-list flex flex-wrap gap-1">
                   {["Git", "Linux", "Firebase", "Supabase", "HTML", "CSS"].map(
                     (skill) => (
-                      <Badge key={skill} className="cv-skill-badge text-xs">
+                      <Badge
+                        key={skill}
+                        className="cv-skill-badge text-xs"
+                        variant="outline"
+                      >
                         {skill}
                       </Badge>
                     )
