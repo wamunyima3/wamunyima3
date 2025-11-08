@@ -17,7 +17,7 @@ Hey there! I'm Wamunyima, a Software Engineer with a passion for creating innova
 - 🌱 Always learning: Currently diving deeper into Kotlin and React Native
 - 💬 Ask me about Flutter, React, JavaScript, Kotlin, PHP, or anything tech!
 - 📫 Reach me at: [wamunyimamukelabai3@gmail.com](mailto:wamunyimamukelabai3@gmail.com)
-- [My GitHub Work Profile](http://github.com/WamunyimaMukelabai)
+- [My GitHub Work Profile](https://github.com/WamunyimaMukelabai)
 - ⚡ Fun fact: I once collected map data for the Zambian census!
 
 ## 🛠️ My Toolkit
