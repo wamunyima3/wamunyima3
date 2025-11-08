@@ -265,6 +265,13 @@ function App() {
               GitHub
             </a>
             <a
+                href="https://github.com/WamunyimaMukelabai"
+                className="flex items-center text-blue-600 hover:underline"
+            >
+              <Link2 className="w-4 h-4 mr-1" />
+              Work GitHub
+            </a>
+            <a
               href="https://www.linkedin.com/in/mukelabai-wamunyima-32bbb6211/"
               className="flex items-center text-blue-600 hover:underline"
             >
@@ -467,6 +474,13 @@ function App() {
             <div className="space-y-3">
               {[
                 {
+                  title: "Medical Physiology Hub",
+                  link: "https://drive.google.com/file/d/1toS6rgGV329mRwCUe4vQaltw5c00cwxO/view",
+                  tech: "Flutter, Firebase, Lenco",
+                  description:
+                      "Mobile application for students, In the process of publishing on App and Play store",
+                },
+                {
                   title: "Purity",
                   link: "https://purity-pm.vercel.app/",
                   tech: "React, Mantine Components, Supabase",
@@ -500,6 +514,13 @@ function App() {
                   tech: "PHP, Tailwind CSS",
                   description:
                     "Implemented an authentication system using facial recognition technology.",
+                },
+                {
+                  title: "Lenco Flutter SDK",
+                  link: "https://pub.dev/packages/lenco_flutter/",
+                  tech: "Dart",
+                  description:
+                      "Checkout the SDK I published on pub.dev",
                 },
               ].map((project, index) => (
                 <div key={index} className="cv-project-item">
