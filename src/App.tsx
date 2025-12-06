@@ -279,7 +279,7 @@ function App() {
               LinkedIn
             </a>
             <a
-              href="https://wamunyimamukelabai.vercel.app/"
+              href="https://wamunyimamukelabai.com/"
               className="flex items-center text-blue-600 hover:underline"
             >
               <Link2 className="w-4 h-4 mr-1" />
